@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8158e43f4c7fdd47b875ea9a53aa7db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - markerManager: {instanceID: 0}
+  - tilemapController: {instanceID: 0}
+  - onTilePickUp: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

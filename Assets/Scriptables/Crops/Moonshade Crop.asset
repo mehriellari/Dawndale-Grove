@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e75d78d48d783904ea7b05bb21abf105, type: 3}
+  m_Name: Moonshade Crop
+  m_EditorClassIdentifier: 
+  timeToGrow: 15
+  yield: {fileID: 11400000, guid: 635ac2f36dc8bc7448ac7f4735dd71a5, type: 2}
+  count: 2
+  sprites:
+  - {fileID: -421113272766951235, guid: 15d1f72261f8adf4aad7f90a3ca521b5, type: 3}
+  - {fileID: 1936158966167285541, guid: 8ff2a546f8eb46e49a2e0bbab1d20025, type: 3}
+  growthStageTime: 0a0000000f000000

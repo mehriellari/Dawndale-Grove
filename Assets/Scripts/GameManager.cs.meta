@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91da0d480d234e7479d2816e6f568519
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - inventoryContainer: {instanceID: 0}
+  - dragAndDropController: {instanceID: 0}
+  - timeController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

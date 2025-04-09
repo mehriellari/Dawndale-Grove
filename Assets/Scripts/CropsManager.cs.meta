@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fedba05b828b9ae40a04fab3a5885ff3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plowed: {instanceID: 0}
+  - seeded: {instanceID: 0}
+  - targetTilemap: {instanceID: 0}
+  - cropsSpritePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
